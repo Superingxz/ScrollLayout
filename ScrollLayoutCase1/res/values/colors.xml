@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="comm_bg_normal">#ffccdd</color>
+    <color name="comm_bg_press">#257AC1</color>
+    <color name="fm_bg_press">#22000000</color>
+    <color name="fm_bg_normal">#FFFFFF</color>
+    <color name="aicai_lottery_bantouming1">#88000000</color>
+    <color name="aicai_lottery_touming">#00000000</color>
+</resources>
